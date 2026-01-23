@@ -1,11 +1,9 @@
 <h1 align="center">Hi, I'm Azan Baloch</h1>
 <h3 align="center">FullStack Developer, Java | Spring Boot | React Js | Docker</h3>
 
-- I’m currently working on my own software [BuildAzan](https://buildazan.com)
+- Ask me about **Java, SpringBoot, Camunda, Connectors, ReactJs, Docker, Cloud etc**
 
-- Ask me about **Java, SpringBoot, ReactJs, ExpressJs, Docker, Cloud etc**
-
-- How to reach me **contact@buildazan.com**
+- How to reach me **balochazan36447@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
