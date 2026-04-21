@@ -5,7 +5,7 @@
 
 - How to reach me **balochazan36447@gmail.com**
 
-- **Open to work**
+- **Looking for Junior/Mid level role**
 
 
 <p align="left">
